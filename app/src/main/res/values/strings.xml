@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maze Builder</string>
+    <string name="build_maze">Find Path</string>
+    <string name="reset">Reset</string>
+</resources>

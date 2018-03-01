@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8d6e63</color>
+    <color name="colorPrimaryDark">#5f4339</color>
+    <color name="colorAccent">#be9c91</color>
+    <color name="wall">#000000</color>
+    <color name="floor">#cfcfcf</color>
+    <color name="path_start">#4caf50</color>
+    <color name="path_end">#d50000</color>
+    <color name="path">#8e24aa</color>
+</resources>
